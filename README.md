@@ -9,7 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs)](https://skillicons.dev)
 
-[![My Skills](https://www.freeiconspng.com/img/11352)]
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Front-End:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery)](https://skillicons.dev)
@@ -24,7 +23,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) <img src="https://www.freeiconspng.com/img/11352" width="50">
 
 
 
