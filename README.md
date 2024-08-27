@@ -7,11 +7,7 @@
 - ✨ My Real Name: Nguyen Vo Quoc Dai
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
-
-<h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs)](https://skillicons.dev)
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Front-End:</h3>
 
@@ -19,11 +15,15 @@
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Back-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,hibernate)](https://skillicons.dev)
 
-<h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Other:</h3>
+<h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">IDE:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idead,visualstudio,vscode)](https://skillicons.dev)
+
+<h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) 
 
 
 
