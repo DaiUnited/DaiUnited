@@ -1,7 +1,7 @@
 <h1 style="font-family: 'Roboto', sans-serif; color: cyan;">Welcome To My Gitpage!</h1>
 
 <!-- GIF -->
-<img align="right" height="115" width="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="125" width="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 👋 Hi, I’m @DaiUnited
 - 👀 I’m interested in making a website by my self
