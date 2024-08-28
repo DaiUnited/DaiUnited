@@ -34,7 +34,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-![](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
+![](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)  <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="49" height="49">
 </div>
 
 # 💻 Trophy
