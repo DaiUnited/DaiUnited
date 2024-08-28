@@ -31,7 +31,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">IDE:</h3>
 
-![](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode)
+![](https://skillicons.dev/icons?i=github,vscode,idea,visualstudio,git)
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
