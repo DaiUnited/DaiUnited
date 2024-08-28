@@ -3,9 +3,9 @@
 <!-- GIF -->
 <img align="right" height="120" width="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-- 👋 Hi, I’m @DaiUnited
-- 👀 My Real Name: Nguyen Vo Quoc Dai
-- 🎓 I’m currently studying at HUIT
+- 👋 Hi, I’m Đại
+- 👀 My Full Name: Nguyễn Võ Quốc Đại
+- 🎓 I’m currently studying at [HUIT](https://huit.edu.vn/)
 - ✨ I’m interested in making a website by my self
 - 📫 How to reach me: daiunited1505@gmail.com
 
