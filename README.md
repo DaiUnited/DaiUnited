@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Roboto', sans-serif; color: #3498db;">Welcome To My Gitpage!</h1>
+<h1 style="font-family: 'Roboto', sans-serif; color: cyan;">Welcome To My Gitpage!</h1>
 
 - 👋 Hi, I’m @DaiUnited
 - 👀 I’m interested in making a website by my self
