@@ -5,7 +5,11 @@
 - 🌱 I’m currently studying at HUIT
 - 📫 How to reach me: facebook.com/youngboizsitinh1505
 - ✨ My Real Name: Nguyen Vo Quoc Dai
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark)](https://github.com/DaiUnited/github-readme-stats)
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Programming Languages:</h3>
+
+# 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,js&theme=light)](https://skillicons.dev)
 
