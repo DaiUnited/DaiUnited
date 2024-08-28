@@ -15,23 +15,22 @@
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,js&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,cs,js&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,hibernate&theme=light)
+![My Skills](https://skillicons.dev/icons?i=spring,dotnet,hibernate&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">IDE:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode)
+![My Skills](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode)
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
 </div>
 # 💻 Trophy
 [![](https://github-profile-trophy.vercel.app/?username=DaiUnited&theme=onedark)
