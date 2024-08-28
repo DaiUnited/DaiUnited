@@ -38,8 +38,10 @@
 </div>
 
 # 💻 Trophy
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=DaiUnited&theme=onedark)
-
+</div>
 
 <!---
 DaiUnited/DaiUnited is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
