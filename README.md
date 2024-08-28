@@ -32,9 +32,9 @@
 
 ![](https://skillicons.dev/icons?i=spring,dotnet,hibernate&theme=light)
 
-<h3 style="font-family: 'Roboto', sans-serif">IDE:</h3>
+<h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
-![](https://skillicons.dev/icons?i=github,vscode,idea,visualstudio,git)
+![](https://skillicons.dev/icons?i=stackoverflow,vscode,idea,visualstudio,github)
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
