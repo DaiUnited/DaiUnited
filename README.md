@@ -11,19 +11,19 @@
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Front-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery&theme=light)](https://skillicons.dev)
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Back-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,hibernate&theme=light)](https://skillicons.dev)
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">IDE:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb )](https://skillicons.dev)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
 
 
 
