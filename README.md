@@ -19,11 +19,11 @@
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
-![](https://skillicons.dev/icons?i=java,cs,js&theme=light)
+![](https://skillicons.dev/icons?i=c,java,cs&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
-![](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery&theme=light)
+![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
