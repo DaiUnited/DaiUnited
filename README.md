@@ -18,7 +18,8 @@
 ![My Skills](https://skillicons.dev/icons?i=java,cs,js&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery&theme=light)
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
