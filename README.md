@@ -23,7 +23,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)![sql](https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35)
 
 
 
