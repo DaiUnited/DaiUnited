@@ -8,6 +8,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark)](https://github.com/DaiUnited/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 💻 Tech Stack
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Programming Languages:</h3>
 
