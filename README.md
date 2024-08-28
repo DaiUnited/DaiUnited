@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DaiUnited/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiUnited)](https://github.com/DaiUnited/github-readme-stats)
 
 <!---
 DaiUnited/DaiUnited is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
