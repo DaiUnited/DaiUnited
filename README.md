@@ -6,7 +6,7 @@
 - 📫 How to reach me: daiunited1505@gmail.com
 - ✨ My Real Name: Nguyen Vo Quoc Dai
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark)](https://github.com/DaiUnited/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark)](https://github.com/DaiUnited/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaiUnited&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Programming Languages:</h3>
