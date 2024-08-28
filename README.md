@@ -40,7 +40,7 @@
 # 💻 Trophy
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=DaiUnited&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=DaiUnited&theme=algolia)
 </div>
 
 <!---
