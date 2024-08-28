@@ -19,7 +19,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">IDE:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode)](https://skillicons.dev)
 
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
 
