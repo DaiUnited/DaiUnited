@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Đại
 - 👀 My Full Name: Nguyễn Võ Quốc Đại
-- 🎓 I’m currently studying at [HUIT](https://huit.edu.vn/)
+- 🎓 I’m currently studying at [Ho Chi Minh City University of Industry and Trade - HUIT](https://huit.edu.vn/)
 - ✨ I’m interested in making a website by my self
 - 📫 How to reach me: daiunited1505@gmail.com
 
