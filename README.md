@@ -1,12 +1,13 @@
 <h1 style="font-family: 'Roboto', sans-serif; color: cyan;">Welcome To My Gitpage!</h1>
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 - 👋 Hi, I’m @DaiUnited
 - 👀 I’m interested in making a website by my self
 - 🎓 I’m currently studying at HUIT
 - 📫 How to reach me: daiunited1505@gmail.com
 - ✨ My Real Name: Nguyen Vo Quoc Dai
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaiUnited&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
