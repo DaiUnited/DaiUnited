@@ -1,14 +1,12 @@
 <h1 style="font-family: 'Roboto', sans-serif; color: #3498db;">Welcome To My Gitpage!</h1>
 
 - 👋 Hi, I’m @DaiUnited
-- 👀 I’m interested in coding a website
-- 🌱 I’m currently studying at HUIT
-- 📫 How to reach me: facebook.com/youngboizsitinh1505
+- 👀 I’m interested in making a website by my self
+- 🎓 I’m currently studying at HUIT
+- 📫 How to reach me: daiunited1505@gmail.com
 - ✨ My Real Name: Nguyen Vo Quoc Dai
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark)](https://github.com/DaiUnited/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 💻 Tech Stack
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Programming Languages:</h3>
@@ -30,6 +28,9 @@
 <h3 style="font-family: 'Roboto', sans-serif; color: #3498db;">Database Management:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)  <img src="https://github.com/user-attachments/assets/7e23bcae-1b0a-45eb-be65-d8d65a8d9c35" width="49" height="49">
+
+# 💻 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaiUnited&theme=onedark)](https://github.com/DaiUnited/github-profile-trophy)
 
 <!---
 DaiUnited/DaiUnited is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
