@@ -6,7 +6,7 @@
 - 📫 How to reach me: daiunited1505@gmail.com
 - ✨ My Real Name: Nguyen Vo Quoc Dai
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark" width="200" height="100"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiUnited&layout=compact&theme=dark" width="200" height="100">
+<img src="https://github-readme-stats.vercel.app/api?username=DaiUnited&show_icons=true&theme=dark" width="200" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiUnited&layout=compact&theme=dark" width="200" height="100">
 
 # 💻 Tech Stack
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
