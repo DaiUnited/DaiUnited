@@ -44,7 +44,7 @@
 # 🏆 Achievement
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=DaiUnited&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,SS,SSS,AAA,AA,A&theme=radical)
 </div>
 
 # 〽️ Activity Graph
