@@ -44,12 +44,12 @@
 # 🏆 Achievement
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,SS,SSS,AAA,AA,A&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SSS,SS,S,A,AA,AAA&theme=radical)
 </div>
 
 # 〽️ Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaiUnited&radius=35&theme=redical&area=true&order=5" height="350" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaiUnited&radius=35&theme=redical&area=true&order=5" height="310" alt="activity-graph graph"  />
 </div>
 
 
