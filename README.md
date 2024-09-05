@@ -41,7 +41,7 @@
 ![](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)  <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50">
 </div>
 
-# 🏆 Achievement
+# 🏆 Github Achievements
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SSS,SS,S,A,AA,AAA&theme=radical)
