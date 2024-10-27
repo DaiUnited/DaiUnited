@@ -22,7 +22,7 @@
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
-<img src="https://smashinghub.com/wp-content/uploads/2012/09/HTML_Basics1.png" width="46" height="51"> ![](https://skillicons.dev/icons?i=java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
+![](https://skillicons.dev/icons?i=python,java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
