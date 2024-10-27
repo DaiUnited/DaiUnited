@@ -30,7 +30,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-![](https://skillicons.dev/icons?i=spring,hibernate&theme=light) <img src="https://www.mvc-controls.com/images/Courses/acore.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=django) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50">
+![](https://skillicons.dev/icons?i=spring,hibernate&theme=light) <img src="https://c0.klipartz.com/pngpicture/534/663/gratis-png-net-framework-software-framework-c-microsoft-asp-net-microsoft.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=django) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50">
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
