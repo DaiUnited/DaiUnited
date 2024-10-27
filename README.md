@@ -34,7 +34,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
-![](https://skillicons.dev/icons?i=vscode,visualstudio) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=idea,github)
+![](https://skillicons.dev/icons?i=vscode,visualstudio) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=idea,docker)
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
