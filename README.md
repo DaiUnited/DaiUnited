@@ -30,7 +30,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-![](https://skillicons.dev/icons?i=spring,hibernate&theme=light) <img src="https://e7.pngegg.com/pngimages/453/918/png-clipart-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text-thumbnail.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=django) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50">
+![](https://skillicons.dev/icons?i=spring,hibernate&theme=light) <img src="https://c0.klipartz.com/pngpicture/105/481/gratis-png-net-framework-software-framework-programador-plataforma-informatica-microsoft-corporation-ejemplo-de-framework-7s.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=django) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50">
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
