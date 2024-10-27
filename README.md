@@ -30,7 +30,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-![](https://skillicons.dev/icons?i=spring,hibernate&theme=light) <img src="https://www.hyperthread.in/wp-content/uploads/2015/10/aspnet-mvc-logo.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=django) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50">
+![](https://skillicons.dev/icons?i=spring,hibernate&theme=light) <img src="https://www.hyperthread.in/wp-content/uploads/2015/10/aspnet-mvc-logo.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=django)
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
