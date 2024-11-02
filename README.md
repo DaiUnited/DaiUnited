@@ -38,7 +38,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-![](https://skillicons.dev/icons?i=mysql&theme=light) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50"> <img src="https://www.wiadvance.com/upload/catalog_m/ALL_catalog_22E26_1CnCC5Tnv2.png" width="75" height="60"> ![](https://skillicons.dev/icons?i=mongodb,cassandra&theme=light)
+![](https://skillicons.dev/icons?i=mysql&theme=light) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50"> <img src="https://www.wiadvance.com/upload/catalog_m/ALL_catalog_22E26_1CnCC5Tnv2.png" width="80" height="60"> ![](https://skillicons.dev/icons?i=mongodb,cassandra&theme=light)
 </div>
 
 # 🏆 Github Achievements
