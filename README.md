@@ -30,7 +30,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-![](https://skillicons.dev/icons?i=spring,hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png" width="50" height="50">
+![](https://skillicons.dev/icons?i=spring,hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png" width="50" height="50">
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
