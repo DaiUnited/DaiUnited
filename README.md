@@ -34,11 +34,11 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
-![](https://skillicons.dev/icons?i=vscode,visualstudio) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=idea,docker)
+![](https://skillicons.dev/icons?i=vscode,visualstudio) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=idea,pycharm)
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-![](https://skillicons.dev/icons?i=mysql&theme=light) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50"> <img src="https://www.wiadvance.com/upload/catalog_m/ALL_catalog_22E26_1CnCC5Tnv2.png" width="90" height="60"> ![](https://skillicons.dev/icons?i=mongodb,cassandra&theme=light)
+![](https://skillicons.dev/icons?i=mysql&theme=light) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=docker,mongodb,cassandra&theme=light)
 </div>
 
 # 🏆 Github Achievements
