@@ -7,7 +7,7 @@
 <img align="right" height="135" width="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 👋 Hi, I’m Đại
-- 👀 My Full Name: Nguyễn Võ Quốc Đại
+- 🎫 My Full Name: Nguyễn Võ Quốc Đại
 - 🎓 I’m currently studying at [Ho Chi Minh City University of Industry and Trade - HUIT](https://huit.edu.vn/)
 - ✨ I’m interested in making a website by my self
 - 📫 How to reach me: daiunited1505@gmail.com
