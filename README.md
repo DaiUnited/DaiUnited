@@ -37,7 +37,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-![](https://skillicons.dev/icons?i=mysql,postgres) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="48"> ![](https://skillicons.dev/icons?i=cassandra,mongodb)
+![](https://skillicons.dev/icons?i=mysql,postgres) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="48"> ![](https://skillicons.dev/icons?i=cassandra,mongodb&theme=light)
 </div>
 
 # 🏆 Github Achievements
