@@ -26,12 +26,11 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
-![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> ![](https://skillicons.dev/icons?i=bootstrap,jquery) 
+![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> <img src="https://e7.pngegg.com/pngimages/718/753/png-clipart-bootstrap-css3-node-js-logo-github-purple-violet.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=jquery) 
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-![](https://skillicons.dev/icons?i=spring,hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=nodejs) <img src="https://www.opencodez.com/wp-content/uploads/2018/09/node-js-restful-api.png" width="50" height="50">
-
+![](https://skillicons.dev/icons?i=spring,hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=nodejs,nestjs)
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
 ![](https://skillicons.dev/icons?i=vscode,visualstudio) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=idea,webstorm)
