@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2500&pause=1000&color=FF357AFF&background=FFFFFF00&width=1000&&height=100&lines=%F0%9F%8C%A0Hi+There!%F0%9F%AA%90;%F0%9F%8C%A0I'm+Dai+Nguyen!%F0%9F%AA%90;%F0%9F%8C%A0Welcome+To+My+Github+Page!%F0%9F%AA%90)](https://git.io/typing-svg)
 </h1>
-
 <!-- GIF -->
 <img align="right" height="135" width="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
