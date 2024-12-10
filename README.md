@@ -26,7 +26,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
-![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> <img src="https://seeklogo.com/images/B/bootstrap-framework-logo-D45BDEC73C-seeklogo.com.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=tailwind) 
+![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> <img src="https://seeklogo.com/images/B/bootstrap-framework-logo-D45BDEC73C-seeklogo.com.png" width="50" height="47"> ![](https://skillicons.dev/icons?i=tailwind) 
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
