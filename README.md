@@ -49,7 +49,7 @@
 # 🏆 Github Achievements
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SSS,SS,S,A,AA,AAA&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SSS,SS,S,A,AA,AAA&theme=algolia)
 </div>
 
 # 〽️ Activity Graph
