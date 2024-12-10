@@ -1,6 +1,6 @@
 <h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=FF3775&background=FF357AFF&width=435&lines=%F0%9F%8C%A0%F0%9F%92%ABHi+There!%F0%9F%AA%90;%F0%9F%8C%A0%F0%9F%92%ABI'm+Dai+Nguyen!%F0%9F%AA%90;%F0%9F%8C%A0%F0%9F%92%ABWelcome+To+My+Gitpage!%F0%9F%AA%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=FF357AFF&background=FFFFFF00&width=435&lines=%F0%9F%8C%A0%F0%9F%92%ABHi+There!%F0%9F%AA%90;%F0%9F%8C%A0%F0%9F%92%ABI'm+Dai+Nguyen!%F0%9F%AA%90;%F0%9F%8C%A0%F0%9F%92%ABWelcome+To+My+Gitpage!%F0%9F%AA%90)](https://git.io/typing-svg)
 </h1>
 
 <!-- GIF -->
