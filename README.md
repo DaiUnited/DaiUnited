@@ -26,7 +26,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
-![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> <img src="https://e7.pngegg.com/pngimages/718/753/png-clipart-bootstrap-css3-node-js-logo-github-purple-violet.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=jquery) 
+![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> <img src="https://seeklogo.com/images/B/bootstrap-framework-logo-D45BDEC73C-seeklogo.com.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=jquery) 
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
@@ -37,7 +37,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-![](https://skillicons.dev/icons?i=mysql,postgres) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=cassandra,mongodb&theme=light)
+![](https://skillicons.dev/icons?i=mysql,postgres) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=cassandra,mongodb)
 </div>
 
 # 🏆 Github Achievements
