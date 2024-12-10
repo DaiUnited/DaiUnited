@@ -37,7 +37,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Database Management:</h3>
 
-![](https://skillicons.dev/icons?i=mysql,postgres) ![](https://skillicons.dev/icons?i=mongodb) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="48"> <img src="https://skillicons.dev/icons?i=cassandra&theme=light" width="48" height="47" style="position: relative; top: 200px;" alt="Cassandra Icon">
+![](https://skillicons.dev/icons?i=mysql,postgres) ![](https://skillicons.dev/icons?i=mongodb) <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="50" height="48"> <img src="https://skillicons.dev/icons?i=cassandra&theme=light" width="45" height="45" alt="Cassandra Icon">
 
 </div>
 
