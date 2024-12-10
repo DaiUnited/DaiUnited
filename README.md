@@ -19,12 +19,14 @@
   <img src="https://streak-stats.demolab.com?user=DaiUnited&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-# 💻 Tech Stack
+# 💫 Skills
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
 ![](https://skillicons.dev/icons?i=java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50"> <img src="https://icons.veryicon.com/png/System/Colorful%20Long%20Shadow/Html%20tags.png" width="50" height="50">
-
+</div>
+# 💻 Tech Stack
+<div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
 ![](https://skillicons.dev/icons?i=html,css) <img src="https://i.pinimg.com/originals/13/40/7c/13407c12f50f08d328800c3caef43f61.png" width="50" height="47"> <img src="https://seeklogo.com/images/B/bootstrap-framework-logo-D45BDEC73C-seeklogo.com.png" width="50" height="48"> ![](https://skillicons.dev/icons?i=tailwind) 
