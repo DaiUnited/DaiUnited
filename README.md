@@ -22,7 +22,7 @@
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
-![](https://skillicons.dev/icons?i=java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
+![](https://skillicons.dev/icons?i=java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50"> <img src="https://icons.veryicon.com/png/System/Colorful%20Long%20Shadow/Html%20tags.png" width="50" height="50">
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
