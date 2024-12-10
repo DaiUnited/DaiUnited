@@ -19,7 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=DaiUnited&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-# 💫 Skills
+# 💫 Coding Skills
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
