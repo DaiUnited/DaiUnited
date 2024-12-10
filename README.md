@@ -1,6 +1,6 @@
 <h1>
   
-  ![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=500&pause=1000&color=FF0785CA&width=435&lines=Hi+There!;I'm+Dai+Nguyen;%F0%9F%8C%A0%F0%9F%92%ABWelcome+To+My+Gitpage!%F0%9F%AA%90)
+  ![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=500&pause=1000&color=FF0785CA&width=435&lines=Hi+There!;I'm+Dai+Nguyen!;%F0%9F%8C%A0%F0%9F%92%ABWelcome+To+My+Gitpage!%F0%9F%AA%90)
 </h1>
 
 <!-- GIF -->
