@@ -22,7 +22,7 @@
 <div align="center">
 <h3 style="font-family: 'Roboto', sans-serif">Programming Languages:</h3>
 
-![](https://skillicons.dev/icons?i=java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50"> ![](https://skillicons.dev/icons?i=python)
+![](https://skillicons.dev/icons?i=java&theme=light) <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
 
 <h3 style="font-family: 'Roboto', sans-serif">Front-End:</h3>
 
@@ -30,7 +30,7 @@
 
 <h3 style="font-family: 'Roboto', sans-serif">Back-End:</h3>
 
-![](https://skillicons.dev/icons?i=spring,hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyramid_web_framework_logo_on_transparent_background.png/1200px-Pyramid_web_framework_logo_on_transparent_background.png" width="50" height="50"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png" width="50" height="50">
+![](https://skillicons.dev/icons?i=spring,hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"> ![](https://skillicons.dev/icons?i=nodejs,tailwind)
 
 <h3 style="font-family: 'Roboto', sans-serif">Tools:</h3>
 
